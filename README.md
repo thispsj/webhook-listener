@@ -5,3 +5,6 @@ Webhook Listener to approve workflows for first time contributors.
   * Octokit - For GitHub API
   * Express - For the REST Server.
   * safe-compare - For comparing strings securely.
+
+# How to run ?
+Use `run.sh`
