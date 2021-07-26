@@ -1,0 +1,16 @@
+{
+  "name": "ghwebhooklistener",
+  "version": "1.0.0",
+  "description": "github webhook listener for free for dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thispsj",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "octokit": "^1.1.0",
+    "safe-compare": "^1.1.4"
+  }
+}
